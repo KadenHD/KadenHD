@@ -33,8 +33,6 @@ My work typically involves:
 
 ### Current
 
----
-
 #### Languages
 
 ![Current Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,c,cpp)
@@ -55,11 +53,7 @@ My work typically involves:
 
 ![Current Tools](https://skillicons.dev/icons?i=windows,linux,ubuntu,raspberrypi,bash,vscode,androidstudio,git,github,gitlab&perline=5)
 
----
-
 ### Already Worked With
-
----
 
 ![Already Worked With](https://skillicons.dev/icons?i=php,symfony,java,spring,rust,go,ros,astro,lua,mysql,sqlite,sequelize,pinia,qt,pytorch,sklearn,unity,webpack,wordpress,figma&perline=10)
 
