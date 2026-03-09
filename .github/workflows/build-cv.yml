@@ -1,0 +1,26 @@
+name: Build CV
+
+on:
+  push:
+    paths:
+      - "CV.md"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc
+
+      - name: Convert Markdown to PDF
+        run: pandoc CV.md -o CV.pdf
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: CV
+          path: CV.pdf
