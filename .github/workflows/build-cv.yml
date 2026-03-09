@@ -27,3 +27,5 @@ jobs:
           git add CV.pdf
           git commit -m "Update CV PDF" || exit 0
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_GITHUB_TOKEN }}
