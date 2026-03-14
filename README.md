@@ -41,21 +41,25 @@ My work typically involves:
 
 ![Current Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,vite,vuetify,tailwind,electron)
 
+> Shadcn/ui
+
 #### Backend
 
 ![Current Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django&perline=5)
 
 #### Cloud & DevOps
 
-![Current Cloud & DevOps](https://skillicons.dev/icons?i=aws,azure,vercel,nginx,docker,githubactions,mongodb,postgres,prisma,postman&perline=5)
+![Current Cloud & DevOps](https://skillicons.dev/icons?i=aws,azure,vercel,nginx,docker,githubactions,mongodb,mysql,sqlite,sequelize,postgres,prisma&perline=6)
+
+> Alembic, SQLAlchemy
 
 #### Tools
 
-![Current Tools](https://skillicons.dev/icons?i=windows,linux,ubuntu,raspberrypi,bash,vscode,androidstudio,git,github,gitlab&perline=5)
+![Current Tools](https://skillicons.dev/icons?i=windows,linux,ubuntu,raspberrypi,bash,vscode,androidstudio,git,github,gitlab,postman,md&perline=6)
 
 ### Already Worked With
 
-![Already Worked With](https://skillicons.dev/icons?i=php,symfony,java,spring,rust,go,ros,astro,lua,mysql,sqlite,sequelize,pinia,qt,pytorch,sklearn,unity,webpack,wordpress,figma&perline=10)
+![Already Worked With](https://skillicons.dev/icons?i=php,symfony,java,spring,rust,go,ros,astro,lua,pinia,qt,pytorch,sklearn,unity,webpack,wordpress,figma,nginx&perline=9)
 
 ---
 
