@@ -1,0 +1,17 @@
+{
+  "name": "kadenhd-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "cv:pdf": "node scripts/export-cv.mjs"
+  },
+  "devDependencies": {
+    "puppeteer": "25.15.0"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "allowScripts": {
+    "puppeteer@25.15.0": true
+  }
+}
