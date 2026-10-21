@@ -1,66 +1,96 @@
-# Hi there, I'm Pierre Clément👋
+# Pierre Clément
 
-Freelance Consultant, Software Engineer from ~~🥐🥖~~ **France** 🔵⚪🔴
+**Freelance software engineer | IT consulting & custom development**
 
-I help companies turn ideas into production-ready software 🔥
+> Your needs. The right software.
 
-My work typically involves:
+I help businesses and project owners turn their needs into working software, from requirements and architecture to production deployment.
 
-- **Rapid MVP & prototype development** - turning concepts into working products quickly
-- **Clean & scalable architectures** - ensuring long-term maintainability
-- **Custom software solutions** - tailored to your business needs
-- **AI & workflow automation** - integrating intelligent automation
-- **Technical strategy support** - guiding product evolution
+I can join your technical team or handle an agreed project scope, through **team support or fixed-price projects**. My work covers **full-stack development, DevOps, software architecture, AI and R&D**, with a focus on maintainability, simplicity and performance.
 
-## Tech Stack
+[Portfolio FR](https://pierre-clement-oise.fr/) · [Portfolio EN](https://pierre-clement-oise.fr/en/) · [CV FR](https://raw.githubusercontent.com/KadenHD/KadenHD/main/CV_Pierre_Clement.pdf) · [CV EN](https://raw.githubusercontent.com/KadenHD/KadenHD/main/CV_Pierre_Clement_EN.pdf)
+
+[LinkedIn](https://www.linkedin.com/in/pierre--clement) · [Let's discuss your project](https://pierre-clement-oise.fr/en/#contact)
+
+## What I work on
+
+- **Custom software:** web and mobile applications, REST APIs, business tools and integrations.
+- **PoCs, MVPs and R&D:** prototypes to test assumptions and validate ideas before a larger development effort.
+- **Architecture and delivery:** scalable cloud architectures, Docker, CI/CD and deployment automation.
+- **AI and automation:** GenAI integrations, computer vision and workflow automation.
+- **AI-assisted development:** GitHub Copilot, Codex and Claude as part of my software development workflow.
+- **Technical support:** requirements analysis, project coordination, testing and ongoing application maintenance.
+
+## Selected work
+
+### ONTBO - Memory and context for AI agents
+
+A platform that retains and structures information from previous exchanges to support more consistent and personalised AI interactions. I contributed **from design to production**, working on backends, REST APIs, interfaces and automated deployments.
+
+**Python, FastAPI, TypeScript, React/Vue, Docker, CI/CD, AWS**
+
+[Project repository](https://github.com/Ontbo/ontbo-context-api) · [My contributions](https://pierre-clement-oise.fr/en/#experience-ontbo)
+
+### Nightingale Project - 3D wound segmentation
+
+Applied research in automatic wound segmentation from 3D scans. I integrated the DeepSkin model into a segmentation workflow, worked on real-time image analysis and developed the API for accessing the system.
+
+**AI, computer vision, REST APIs, Docker**
+
+[My contributions](https://pierre-clement-oise.fr/en/#experience-nightingale) · [DeepSkin upstream model](https://github.com/Nico-Curti/Deepskin)
+
+### LynxJS - Cross-platform development
+
+A foundation for exploring LynxJS across **web, mobile and desktop**, with Electron integration and hot reload for desktop development.
+
+[Repository](https://github.com/KadenHD/lynxjs-crossplatform) · [Portfolio](https://pierre-clement-oise.fr/en/#projects)
+
+### DragN’Receive - Local click & collect
+
+A student proof of concept demonstrating a click & collect service for local products and neighbourhood retailers, presented at an exhibition stand.
+
+[Repository](https://github.com/KadenHD/drag-n-receive) · [Technical documentation](https://github.com/KadenHD/drag-n-receive/blob/main/docs/DragNReceive%20-%20Projet%20Innovation%20Technique.pdf)
+
+## Experience behind the code
+
+- **Weldom:** contributing to the evolution of a business application deployed in **more than 300 stores**.
+- **ONTBO:** automated cloud deployment pipelines with **more than 8 services deployed in under 5 minutes**.
+- **Nightingale Project:** work on **more than 1,500 wound images from more than 450 patients**; model deployment through REST APIs and Docker containerisation, with **400% faster deployment, independent of the target environment**.
+- **UTeam:** full-stack applications, embedded systems, robotics and R&D; technical support for startups, SMEs and laboratories, with **more than 10 projects delivered**.
+
+My background includes a five-year higher education qualification in computer science, with **five years of work-study experience from a BTS to an engineering degree**.
+
+[Full experience](https://pierre-clement-oise.fr/en/#experience) · [Testimonials](https://pierre-clement-oise.fr/en/#testimonials)
+
+## Tech stack
+
+I choose the stack around each project's needs and constraints, drawing on the technologies below.
+
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, C, C++, HTML, CSS |
+| Frontend & desktop | React, Next.js, Vue, Vite, Vuetify, Tailwind CSS, shadcn/ui, Electron |
+| Backend | Node.js, Express, FastAPI, Flask, Django |
+| Cloud & delivery | AWS, Azure, OVHcloud, Docker, GitHub Actions, NGINX, Vercel |
+| Data & persistence | PostgreSQL, MySQL, SQLite, MongoDB, SQLAlchemy, Alembic, Prisma, Sequelize |
+| AI-assisted development | GitHub Copilot, Codex, Claude |
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  <div style="display: flex; align-items: flex-start; gap: 10px; margin-top: 10px; margin-bottom: 10px;">
-    <img
-      src="https://github-readme-stats-dsoq.vercel.app/api?username=KadenHD&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true&custom_title=🔥+GitHub+Streak" 
-      style="height: 175px;"
-    />
-    <img
-      src="https://github-readme-stats-dsoq.vercel.app/api/top-langs/?username=KadenHD&layout=compact&theme=dark&hide_border=false&custom_title=💻+Most+Used+Languages"
-      style="height: 175px;"
-    />
-  </div>
+<summary>Development tools & environments</summary>
+
+Git, GitHub, GitLab, Bash, Linux, Ubuntu, Windows, Raspberry Pi, VS Code, Android Studio, Postman and Markdown.
+
 </details>
 
-> [!NOTE]
-> Highly skilled in rapid learning and always curious, I’m open to exploring and working with other tech stacks as needed for the project.
+<details>
+<summary>Other technologies I have worked with</summary>
 
-### Current
+PHP, Symfony, Java, Spring, Rust, Go, ROS, Astro, Lua, Pinia, Qt, PyTorch, scikit-learn, Unity, Webpack, WordPress and Figma.
 
-#### Languages
+</details>
 
-![Current Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,c,cpp)
+## Let's talk about what you need
 
-#### Frontend
+I work on projects in **Oise, Hauts-de-France and Île-de-France**, and collaborate **remotely with clients in France and abroad**, in French or English.
 
-![Current Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,vite,vuetify,tailwind,electron)
-
-> Shadcn/ui
-
-#### Backend
-
-![Current Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django&perline=5)
-
-#### Cloud & DevOps
-
-![Current Cloud & DevOps](https://skillicons.dev/icons?i=aws,azure,vercel,nginx,docker,githubactions,mongodb,mysql,sqlite,sequelize,postgres,prisma&perline=6)
-
-> Alembic, SQLAlchemy
-
-#### Tools
-
-![Current Tools](https://skillicons.dev/icons?i=windows,linux,ubuntu,raspberrypi,bash,vscode,androidstudio,git,github,gitlab,postman,md&perline=6)
-
-### Already Worked With
-
-![Already Worked With](https://skillicons.dev/icons?i=php,symfony,java,spring,rust,go,ros,astro,lua,pinia,qt,pytorch,sklearn,unity,webpack,wordpress,figma,nginx&perline=9)
-
----
-
-📫 Reach me at [pierre.clement.oise@gmail.com](mailto:pierre.clement.oise@gmail.com) or via [LinkedIn](https://linkedin.com/in/pierre--clement)
+[Email me](mailto:pierre.clement.oise@gmail.com) · [Book a 30-minute conversation](https://calendly.com/pierre-clement-oise/30min)
